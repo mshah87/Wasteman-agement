@@ -1,0 +1,8 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  letter-spacing: 2px;
+}
